@@ -119,6 +119,9 @@ footer {
     background-color: #f9f9f9;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    left: 0; /* Position the dropdown relative to its parent */
+    top: 100%; /* Position the dropdown below its parent */
+    width: 150px; /* Adjust width as needed */
 }
 
 .dropdown-content a {
@@ -130,10 +133,6 @@ footer {
 
 .dropdown-content a:hover {
     background-color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
 }
 
 /* Hover effect for "Contact" link */
