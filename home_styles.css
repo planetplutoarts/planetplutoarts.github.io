@@ -44,8 +44,8 @@ nav ul li a {
     background-image: url('https://planetplutoarts.github.io/butterfly.png'); /* Replace 'hero-background.jpg' with your actual image file */
     background-size: cover;
     background-position: center;
-    color: #fff;
-    text-align: center;
+    color: black;
+    text-align: right;
     padding: 300px 0;
 }
 
