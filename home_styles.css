@@ -41,7 +41,7 @@ nav ul li a {
 
 /* Hero section styles */
 #hero {
-    background-image: url('butterfly.png'); /* Replace 'hero-background.jpg' with your actual image file */
+    background-image: url('https://planetplutoarts.github.io/butterfly.png'); /* Replace 'hero-background.jpg' with your actual image file */
     background-size: cover;
     background-position: center;
     color: #fff;
